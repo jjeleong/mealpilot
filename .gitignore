@@ -1,0 +1,15 @@
+node_modules/
+dist/
+backend/target/
+target/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+*.local
