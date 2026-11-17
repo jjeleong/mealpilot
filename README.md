@@ -1,6 +1,4 @@
-# MealPilot V3 — Full-stack SQL edition
-
-Cette version ajoute un backend Java/Spring Boot et PostgreSQL à l'interface React + TypeScript existante.
+# MealPilot
 
 ## Architecture
 - `src/` : interface React/Vite existante et catalogue local de démonstration (80 recettes).
